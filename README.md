@@ -19,11 +19,11 @@
 ├── 11 - python - ORM   
 
 Концептуальная модель
-<img width="880" alt="Screenshot 2024-12-18 at 20 03 08" src="https://github.com/user-attachments/assets/57a3e575-360c-4b7f-b192-b2ffbc8d57f6" />
+<img width="880" alt="Screenshot 2024-12-18 at 20 03 08" src="https://github.com/user-attachments/assets/57a3e575-360c-4b7f-b192-b2ffbc8d57f6" />  
 Факт -- договоры (contracts), все остальное -- измерения
 
-Логическая модель
-<img width="882" alt="Screenshot 2024-12-18 at 20 20 30" src="https://github.com/user-attachments/assets/8c294af6-864b-4c2b-8e01-c07b19fe79f5" />
+Логическая модель  
+<img width="882" alt="Screenshot 2024-12-18 at 20 20 30" src="https://github.com/user-attachments/assets/8c294af6-864b-4c2b-8e01-c07b19fe79f5" />  
 
 Присутствует таблица history для отслеживания различных операций, изменений
 
